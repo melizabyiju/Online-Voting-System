@@ -1,3 +1,4 @@
+[![Java](https://img.shields.io/badge/Language-Java-orange.svg)](#tech-stack)
 # E-Voting System
 
 A secure, reliable, and educational desktop voting application implemented in Java with a Swing GUI. This project demonstrates Object-Oriented Programming (OOP) principles and core custom data-structure implementations while providing a simple, auditable digital election workflow.
